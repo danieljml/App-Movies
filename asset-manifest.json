@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/App-Movies/static/css/main.6c20750a.chunk.css",
+    "main.js": "/App-Movies/static/js/main.25cb3e42.chunk.js",
+    "main.js.map": "/App-Movies/static/js/main.25cb3e42.chunk.js.map",
+    "runtime-main.js": "/App-Movies/static/js/runtime-main.a8e7d395.js",
+    "runtime-main.js.map": "/App-Movies/static/js/runtime-main.a8e7d395.js.map",
+    "static/js/2.2d26ad66.chunk.js": "/App-Movies/static/js/2.2d26ad66.chunk.js",
+    "static/js/2.2d26ad66.chunk.js.map": "/App-Movies/static/js/2.2d26ad66.chunk.js.map",
+    "index.html": "/App-Movies/index.html",
+    "static/css/main.6c20750a.chunk.css.map": "/App-Movies/static/css/main.6c20750a.chunk.css.map",
+    "static/js/2.2d26ad66.chunk.js.LICENSE.txt": "/App-Movies/static/js/2.2d26ad66.chunk.js.LICENSE.txt",
+    "static/media/fly-man.bab09b11.png": "/App-Movies/static/media/fly-man.bab09b11.png",
+    "static/media/placeholder.2a99ab22.jpg": "/App-Movies/static/media/placeholder.2a99ab22.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8e7d395.js",
+    "static/js/2.2d26ad66.chunk.js",
+    "static/css/main.6c20750a.chunk.css",
+    "static/js/main.25cb3e42.chunk.js"
+  ]
+}
